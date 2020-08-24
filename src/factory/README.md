@@ -1,4 +1,4 @@
-# Factory Pattern Example
+# Factory Pattern
 
 ## Definition
 **Simple Factory**: not actually a design pattern, but more of a programming idiom. It encapsulates the create method for object creation. 

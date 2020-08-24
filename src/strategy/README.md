@@ -1,4 +1,4 @@
-# Strategy Pattern Example
+# Strategy Pattern
 
 ## Definition
 - Defines a **family** of algorithms, **encapsulates** each one, and makes them **interchangeable**. 
