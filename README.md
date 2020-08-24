@@ -7,6 +7,8 @@ This repo contains learning note and code examples of design patterns.
 
 [Factory Pattern](src/factory)
 
+[Observer Pattern](src/observer)
+
 ### Reference
 
 [**Head First Design Patterns: A Brain-Friendly Guide 1st Edition** 
