@@ -9,6 +9,7 @@ in Spotify's repos.
 - [Observer Pattern](src/observer)
 - [State Pattern](src/state)
 - [Command Pattern](src/command)
+- [Singleton Pattern](src/singleton)
 
 ## Reference
 [**Head First Design Patterns: A Brain-Friendly Guide 1st Edition** 
